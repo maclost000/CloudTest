@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-20T18:19:54 IST" name="Default suite" finished-at="2022-01-20T18:20:58 IST" duration-ms="64370">
+    <groups>
+    </groups>
+    <test started-at="2022-01-20T18:19:54 IST" name="Default test" finished-at="2022-01-20T18:20:58 IST" duration-ms="64370">
+      <class name="appium.framework.WebViewCheckTest">
+        <test-method signature="webAutomation()[pri:0, instance:appium.framework.WebViewCheckTest@194bcebf]" started-at="2022-01-20T18:19:54 IST" name="webAutomation" finished-at="2022-01-20T18:20:58 IST" duration-ms="64352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webAutomation -->
+      </class> <!-- appium.framework.WebViewCheckTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
